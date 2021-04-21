@@ -1,5 +1,5 @@
 <h2> Hola, </h2> 
-<h4>mi nombre es Víctor Orellano y soy desarrollador web con conocimiento en las siguientes areas:</h4>
+<h4>mi nombre es Víctor Orellano y soy desarrollador web full stack con conocimiento en las siguientes areas:</h4>
  <div display="flex">
   <img width="100px" src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"/>
   <img width="100px" src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e472yks2r4y1jcamsa3y1bfy2csdw8s8vrfshqtxw93&rid=giphy.gif&ct=s"/>
