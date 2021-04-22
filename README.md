@@ -10,6 +10,7 @@
   <img height="100px" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e47ucw2ot6yhvwgyat50418dxq3cx2qitlc607qamg7&rid=giphy.gif&ct=s"/>
   <img width="100px" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47gtfyb1qphtig2k4g06zlo0im58yr04qypc5awmse&rid=giphy.gif&ct=s"/>
   <img width="100px" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif?cid=ecf05e47farmcfmqpfvcx8nupxlxrx6djvm4tivd486c9cea&rid=giphy.gif&ct=s"/>
+  <img width="100px" src="https://servicios.cecep.edu.co/mod266/pluginfile.php/17618/course/summary/csharp.png"/>
   <img width="100px" src="https://media1.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=ecf05e47rsl1kyt3pllwnf5fqdmq7qd3enx0yrmlujs4r1yz&rid=giphy.gif&ct=s"/>
 <div/>
   <h4>Soy un apasionado de la música, la programación y la tecnología en general, un fiel creyente del apredizaje continuo y de que con codigo los limites son los de la imaginación</h4>
